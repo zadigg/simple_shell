@@ -85,6 +85,6 @@ $ Ethio
 
 ```
 
-Copyright @ 2022
+Copyright @ 2022 
 Abel Kibebe <abelkibebe5@gmail.com>
 Bisrat Kebere <kiyyakebere@gmail.com>
