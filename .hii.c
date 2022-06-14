@@ -743,11 +743,11 @@ df
 ```
 $ echo "/bin/ls" | ./hsh
 hsh main.c shell.c test_ls_2
-$
+$d
 $ cat test_ls_2
 /bin/ls
 /bin/ls
-B
+ff
 fbdfndfbfdndbfdnfdfmdfdfffd
 dfffd
 
