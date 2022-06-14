@@ -5,11 +5,16 @@ fjdkfjdkfdfdf
 dfldfkdfd
 fdf
 df
-fnnfdmfd
-fd
-fdf
-Dfi
-C
+df
+d
+B# Our own simple shell
+
+This is our self owned simple shell in C language.
+
+### About git face –the one we will build- or graphical user interface, like regular software such as Windows Office.
+
+### Compilation
+
 C
 A
 B
@@ -21,19 +26,6 @@ B
 f
 df
 df
-df
-df
-d
-B# Our own simple shell
-
-This is our self owned simple shell in C language.
-
-### About
-
-Shell is a user interface to use the services of a computer. It can be a command-line interface –the one we will build- or graphical user interface, like regular software such as Windows Office.
-
-### Compilation
-
 This simple shell is compiled with:
 
 ```
