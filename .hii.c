@@ -13,7 +13,7 @@ This is our self owned simple shell in C language.a
 df
 ### About git face –the one we will build- or graphical user interaface, like regular software such as Windows Office.
 df
-### Compilationa
+### Compilational
 dff
 C
 A
