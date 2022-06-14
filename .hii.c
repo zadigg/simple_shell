@@ -4,32 +4,32 @@ B
 fjdkfjdkfdfdf
 dfldfkdfd
 fdf
-df
-df
+dfa
+dfa
 d
 B# Our own simple shell
 
-This is our self owned simple shell in C language.
+This is our self owned simple shell in C language.a
 
-### About git face –the one we will build- or graphical user interface, like regular software such as Windows Office.
+### About git face –the one we will build- or graphical user interaface, like regular software such as Windows Office.
 
-### Compilation
+### Compilationa
 
 C
 A
 B
 B
-B
+Ba
 
 B
 
 f
 df
 df
-This simple shell is compiled with:
+This simple shell is compiled with:a
 
 ```
-gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh
+gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsha
 ```
 
 ### Output
