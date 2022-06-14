@@ -1,6 +1,6 @@
-
+df
 B
-
+df
 fjdkfjdkfdfdf
 dfldfkdfd
 fdf
@@ -8,32 +8,32 @@ dfa
 dfa
 d
 B# Our own simple shell
-
+df
 This is our self owned simple shell in C language.a
-
+df
 ### About git face –the one we will build- or graphical user interaface, like regular software such as Windows Office.
-
+df
 ### Compilationa
-
+df
 C
 A
 B
 B
 Ba
-
+fd
 B
-
+df
 f
 df
 df
 This simple shell is compiled with:a
-
+df
 ```
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsha
 ```
-
+fd
 ### Output
-
+df
 This program have exact same output as `sh` as well as the exact same error output. The only difference is when it prints an error, the name of the program is equivalent to `argv[0]`.
 
 #### Example of error with `sh`:
