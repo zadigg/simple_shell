@@ -31,7 +31,8 @@ df
 ```
 gcc -Wall -Werror -Wextra -pedantic -std=gnu9 *.c -o hsh
 ```
-fd
+
+
 ### Output
 
 This program have exact same output as `sh` as well as the exact same error output. The only difference is when it prints an error, the name of the program is equivalent to `argv[0]`.
