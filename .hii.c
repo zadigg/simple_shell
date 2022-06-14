@@ -29,7 +29,7 @@ df
 This simple shell is compiled swith:a
 df
 ```
-gcc -Wall -Werror -Wextra -pedantic -std=gnu9 *.c -o hsh
+gcc -Wall -Werror -Wextra -pedantic -std=gnu9 *.c -o sh
 `
 
 ### Output
