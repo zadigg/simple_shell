@@ -739,6 +739,9 @@ $ Ethio
 f
 df
 #### But also in non-interactive mode:
+f
+df
+#### But also in non-interactive mode:
 
 ```
 $ echo "/bin/ls" | ./hsh
