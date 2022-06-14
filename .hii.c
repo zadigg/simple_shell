@@ -750,7 +750,7 @@ $ cat test_ls_2
 $
 $ cat test_ls_2 | ./hsh
 hsh main.c shell.c test_ls_2
-hsh main.c shell.c test_ls_
+hsh main.c shell.c test_ls_a
 $
 ```
 B
