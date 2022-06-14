@@ -748,7 +748,7 @@ $ cat test_ls_2
 /bin/ls
 /bin/ls
 B
-fbdfndfbfdndbfdnfdfmdfdff
+fbdfndfbfdndbfdnfdfmdfdfffd
 dfffd
 
 fdf
