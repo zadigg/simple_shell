@@ -48,16 +48,6 @@ $
 
 #### Error with our program:
 
-```
-$ echo "qwerty" | ./hsh
-./hsh: 1: qwerty: not found
-$ echo "qwerty" | ./././hsh
-./././hsh: 1: qwerty: not found
-$
-```
-
-### Testing
-
 #### Our shell work like this in interactive mode:
 
 ```
@@ -131,9 +121,6 @@ $ echo "qwerty" | /bin/../bin/sh
 /bin/../bin/sh: 1: qwerty: not found
 $
 ```
-
-#### Error with our program:
-
 ```
 $ echo "qwerty" | ./hsh
 ./hsh: 1: qwerty: not found
@@ -143,6 +130,7 @@ $
 ```
 
 ### Testing
+
 
 #### Our shell work like this in interactive mode:
 
@@ -193,15 +181,6 @@ B
 B
 B
 B
-B
-fbdfndfbfdndbfdnfdfmdfdff
-df
-
-fdf
-dfd
-f
-d
-f
 d
 f
 dfd
@@ -280,16 +259,15 @@ hsh main.c shell.c test_ls_2
 hsh main.c shell.c test_ls_2
 $
 ```
+B
+fbdfndfbfdndbfdnfdfmdfdff
+df
 
-### Examples
-
-```
-$ /bin/pwd
-/home/vagrant/shell
-```
-
-```
-
+fdf
+dfd
+f
+d
+f
 ```
 
 $ Ethio
