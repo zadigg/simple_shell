@@ -731,7 +731,7 @@ $
 ```
 
 $ Ethio
-./hsh: No such file or directory
+./hsh: No such file or director
 
 ```
 
