@@ -26,7 +26,7 @@ df
 f
 df
 df
-This simple shell is compiled with:a
+This simple shell is compiled swith:a
 df
 ```
 gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsha
