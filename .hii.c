@@ -30,7 +30,7 @@ This simple shell is compiled swith:as
 df
 ```
 gcc -Wall -Werror -Wextra -pedantic -std=gnu9 *.c -o hsh
-```
+`
 
 ### Output
 
